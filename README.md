@@ -15,5 +15,4 @@
   По тапу на ячейку отобразиться второй экран
   
   2. Второй экран - отображает дополнительные сведения о погоде в выбранном городе и картинку
-![Simulator Screen Shot - iPhone 11 - 2022-12-14 at 19 39 25](https://user-images.githubusercontent.com/100678259/207658153-c2db3884-e5fd-48ce-8bf5-86e8494d8006.png)
-![Simulator Screen Shot - iPhone 11 - 2022-12-14 at 19 39 39](https://user-images.githubusercontent.com/100678259/207663233-94325f6c-b76d-41ee-98ff-411515e9f897.png)
+![Simulator Screen Shot - iPhone 11 - 2022-12-14 at 19 39 25](https://user-images.githubusercontent.com/100678259/207666761-25140a56-55f9-4a9c-b80e-2cc664e293a0.png) ![Simulator Screen Shot - iPhone 11 - 2022-12-14 at 19 39 39](https://user-images.githubusercontent.com/100678259/207666859-556446f7-f457-49ff-a326-7d51afc99ded.png)
