@@ -15,4 +15,18 @@
   По тапу на ячейку отобразиться второй экран
   
   2. Второй экран - отображает дополнительные сведения о погоде в выбранном городе и картинку
-![Simulator Screen Shot - iPhone 11 - 2022-12-14 at 19 39 25](https://user-images.githubusercontent.com/100678259/207666761-25140a56-55f9-4a9c-b80e-2cc664e293a0.png) ![Simulator Screen Shot - iPhone 11 - 2022-12-14 at 19 39 39](https://user-images.githubusercontent.com/100678259/207666859-556446f7-f457-49ff-a326-7d51afc99ded.png)
+  
+  Главный экран
+![Simulator Screen Shot - iPhone 11 - 2022-12-14 at 19 39 25](https://user-images.githubusercontent.com/100678259/207666761-25140a56-55f9-4a9c-b80e-2cc664e293a0.png) 
+
+Удаление свайпом влево
+![Simulator Screen Shot - iPhone 11 - 2022-12-14 at 19 39 39](https://user-images.githubusercontent.com/100678259/207666859-556446f7-f457-49ff-a326-7d51afc99ded.png)
+
+Добавление новго города
+![Simulator Screen Shot - iPhone 11 - 2022-12-14 at 19 43 18](https://user-images.githubusercontent.com/100678259/207667925-acb306a8-16fd-4a9f-8032-5c06d5f6b4b9.png)
+
+Поиск города
+![Simulator Screen Shot - iPhone 11 - 2022-12-14 at 19 40 40](https://user-images.githubusercontent.com/100678259/207668057-e00bc6df-11fb-4148-b8df-e6076368719d.png)
+
+Экран с дополнительной информацией 
+![Simulator Screen Shot - iPhone 11 - 2022-12-14 at 19 44 12](https://user-images.githubusercontent.com/100678259/207668392-418f8aa5-3004-48fd-8d64-b826d74e58e8.png)
