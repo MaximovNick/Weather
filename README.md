@@ -1,6 +1,6 @@
 # WeatherApp
 
-Небольшое приложение о погоде, созданное с целью показать свои навыки:
+Небольшое приложение о погоде в котром применялось:
 Работа с сетью - URLSession (данные о погоде с сайта Yandex)
 Работа с JSON (парсинг)
 Работа с CoreLocation (получение данных погодных данных о городе по его координатам)
@@ -16,5 +16,5 @@
   
   2. Второй экран - отображает дополнительные сведения о погоде в выбранном городе и картинку
   
-![Simulator Screen Shot - iPhone 11 - 2022-12-14 at 23 04 49](https://user-images.githubusercontent.com/100678259/207703628-2e166556-e369-4414-bba2-2259c3e3add6.png) ![Simulator Screen Shot - iPhone 11 - 2022-12-14 at 23 05 14](https://user-images.githubusercontent.com/100678259/207703725-0eb233ca-8ef3-4244-b1cc-18579596d301.png) ![Simulator Screen Shot - iPhone 11 - 2022-12-14 at 23 06 06](https://user-images.githubusercontent.com/100678259/207703854-a92abf5d-5f09-4bfe-9c5e-d376884483ca.png)
+![Simulator Screen Recording - iPhone 11 - 2022-12-15 at 12 18 30](https://user-images.githubusercontent.com/100678259/207821619-3d0c002b-235d-4ab7-8d5e-0bf729ac3c5a.gif)
 
